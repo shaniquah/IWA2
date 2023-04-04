@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.pop {
+    color: rgb(3, 97, 180);
+    justify-self: center;
+    background: yellowgreen;
+}
